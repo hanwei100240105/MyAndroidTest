@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.v("hanwei","同步到github库");
 
+        Log.v("text","新的Log");
 
     }
 }
